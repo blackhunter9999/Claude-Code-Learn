@@ -1,5 +1,7 @@
 # Claude Code — Leaked Source (2026-03-31)
 
+中文版本: [README_CN.md](./README_CN.md)
+
 > **On March 31, 2026, the full source code of Anthropic's Claude Code CLI was leaked** via a `.map` file exposed in their npm registry.
 
 ---
